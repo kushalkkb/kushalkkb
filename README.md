@@ -3,7 +3,7 @@
 
 
 ### 👋 Hi, I’m Kushal Kumar B
-I'm a 2nd year student studying CS at PES University interested in developing and researching machine learning techniques and enthusiastic about robotics. I am working on my personal website.
+I'm a 2nd year student studying AIML at PES University interested in developing and researching machine learning techniques and enthusiastic about robotics. I am working on my personal website.
 
 #### **Notable Projects**
 * 📈 [Face recognition project](https://github.com/kushalkkb/AIML): Python-based real-time face recognition application using OpenCV and machine learning for identity verification 
